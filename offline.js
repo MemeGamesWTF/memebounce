@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740730808,
+	"version": 1740739178,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,16 @@
 		"images/particles.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/bounce.m4a",
+		"media/bounce.ogg",
+		"media/brick break.m4a",
+		"media/brick break.ogg",
+		"media/win.m4a",
+		"media/win.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
+		"media/bg.m4a",
+		"media/bg.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
